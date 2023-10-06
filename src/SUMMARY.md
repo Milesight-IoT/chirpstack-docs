@@ -24,6 +24,7 @@
   - [ThingsBoard integration](./guides/thingsboard.md)
   - [Pilot Things integration](./guides/pilot-things.md)
   - [Migrating from Semtech NS](./guides/migrating-from-semtech-ns.md)
+  - [Roaming with Helium](./guides/helium-roaming.md)
 
 # ChirpStack
 
